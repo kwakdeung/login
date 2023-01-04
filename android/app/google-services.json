@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "872190286390",
+    "project_id": "canko-d6775",
+    "storage_bucket": "canko-d6775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872190286390:android:697d9c1f0b1c7e0f21d697",
+        "android_client_info": {
+          "package_name": "com.bbsoft.study.canko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872190286390-4heoh07ubn96hk51pnimki4pl6f46vfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bbsoft.study.canko",
+            "certificate_hash": "ddaa96ad7245983d3650d15eee48ff17d3766d3e"
+          }
+        },
+        {
+          "client_id": "872190286390-10v3lhn2r1bj0tj1r8q745c4h3apo5a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_39PNDTvvPYJ23NKbt947wS_UFquec4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872190286390-10v3lhn2r1bj0tj1r8q745c4h3apo5a5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872190286390-csrrj43jg0ohfdgstkli5s1sbh9app6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bbsoft.study.canko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
